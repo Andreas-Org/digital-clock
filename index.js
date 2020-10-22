@@ -1,4 +1,3 @@
-setInterval(showTime, 1000); 
 function showTime() { 
 	let time = new Date(); 
 	let hour = time.getHours(); 
@@ -22,5 +21,6 @@ function showTime() {
 
 	document.querySelector(".digital-clock") 
 			.innerHTML = currentTime; 
-} 
-showTime(); 
+}  
+
+export default showTime
