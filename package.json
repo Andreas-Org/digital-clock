@@ -1,6 +1,6 @@
 {
   "name": "digital-clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "USE THIS AWESOME DIGITAL CLOCK FOR YOUR WEBSITE THAT CHANGE DEPENDING ON WHAT TIME ZONE YOU/YOUR USER IS IN.",
   "main": "app.js",
   "scripts": {
