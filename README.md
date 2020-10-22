@@ -4,7 +4,7 @@ USE THIS AWESOME DIGITAL CLOCK FOR YOUR WEBSITE THAT CHANGE DEPENDING ON WHAT TI
 
 ## Install
 
-npm i digital-clock
+`npm i digital-clock`
 
 ### HTML
 ```html
