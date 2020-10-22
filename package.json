@@ -11,7 +11,12 @@
     "url": "git+https://github.com/Andreas-Org/digital-clock.git"
   },
   "keywords": [
-    "digitalclock"
+    "digitalclock",
+    "MIT",
+    "clock",
+    "digital",
+    "time",
+    "front-end"
   ],
   "author": "Lupe.- & AndreasRisager",
   "license": "MIT",
