@@ -2,7 +2,7 @@ function showTime() {
 	let time = new Date(); 
 	let hour = time.getHours(); 
 	let min = time.getMinutes(); 
-	am_pm = "AM"; 
+	let am_pm = "AM"; 
 
 	if (hour > 12) { 
 		hour -= 12; 
